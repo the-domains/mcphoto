@@ -1,0 +1,14 @@
+layout_spectrum: 0.983675058465451
+typography_spectrum: 0.8127984800375998
+color:
+  brandStrength: 0.8728274882305413
+  lightness: 0.13203380233608186
+  saturation: 0.5434776588808745
+  rhythmicContrast: 0.8417080328799784
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: mcphoto
